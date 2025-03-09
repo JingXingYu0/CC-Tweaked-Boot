@@ -1,0 +1,3 @@
+quark:charcoal_block
+minecraft:torch
+minecraft:barrel
